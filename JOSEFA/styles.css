@@ -1,0 +1,12 @@
+/*RESETAR O CSS*/
+*{
+   background: -webkit-linear-gradient(-45deg, #836FFF, #87CEFA);
+    color: black;
+  }
+  
+  fieldset{
+    height: calc(100vh - 20vh);
+    position: relative;
+  }
+
+  
